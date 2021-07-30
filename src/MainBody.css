@@ -1,0 +1,16 @@
+.MainBody .container {
+  width: 450px;
+  margin: 0 auto;
+  text-align: center;
+  margin: 100px auto;
+  padding: 25px;
+  background: #5a8dce;
+  border: solid white 2px;
+  border-radius: 4px;
+  color: white;
+}
+
+.MainBody ul {
+  list-style: none;
+  color: white;
+}
