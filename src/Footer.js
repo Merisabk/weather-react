@@ -15,7 +15,7 @@ export default function Footer() {
       </a>{" "}
       by{" "}
       <a
-        href="https://www.linkedin.com/in/merisa-bishwakarma/"
+        href="https://github.com/Merisabk/weather-react"
         target="_blank"
         rel="noreferrer"
       >
